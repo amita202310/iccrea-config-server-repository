@@ -4,6 +4,6 @@ eureka:
       defaultZone: http://service-discovery:8761/eureka
     fetch-registry: true
   instance:
-    hostname: localhost
+    prefer-ip-address: true
 jwt:
   secret_key: "secret"
