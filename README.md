@@ -1,0 +1,1 @@
+# iccrea-config-server-repository
